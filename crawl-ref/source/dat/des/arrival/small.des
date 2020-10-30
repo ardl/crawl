@@ -3503,17 +3503,17 @@ TAGS:    arrival no_monster_gen no_pool_fixup
 ORIENT:  float
 
 MAP
-wxxxxx+xxxxxw
-xw.........wx          
-x.w.w...w.w.x
-x..w.w.w.w..x
-x.w.......w.x
-x..w.....w..x
+Wxxxxx+xxxxxW
+xW.........Wx          
+x.W.W...W.W.x
+x..W.W.W.W..x
+x.W.......w.x
+x..W.....W..x
 +.....}.....+
-x..w.....w..x
-x.w.......w.x
-x..w.w.w.w..x
-x.w.w...w.w.x
-xw.........wx
-wxxxxx+xxxxxw
+x..W.....W..x
+x.W.......W.x
+x..W.W.W.W..x
+x.W.W...W.W.x
+xW.........Wx
+Wxxxxx+xxxxxW
 ENDMAP
