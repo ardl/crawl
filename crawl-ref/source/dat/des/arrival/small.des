@@ -3498,9 +3498,31 @@ xx...x+   +xxx+   +x...xx
 ENDMAP
 
 ##############################################################
-NAME:    ardl_water_array_entrance
+NAME:    ardl_water_entrance
 TAGS:    arrival no_monster_gen no_pool_fixup
 ORIENT:  float
+
+MAP
+Wxxxxx+xxxxxW
+xW.........Wx          
+x.W.W...W.W.x
+x..W.W.W.W..x
+x.W.......w.x
+x..W.....W..x
++.....}.....+
+x..W.....W..x
+x.W.......W.x
+x..W.W.W.W..x
+x.W.W...W.W.x
+xW.........Wx
+Wxxxxx+xxxxxW
+ENDMAP
+
+##############################################################
+NAME: ardl_water_entrance_broken_walls
+TAGS: arrival no_monster_gen no_pool_fixup
+SUBST: x = x:20 .
+ORIENT: float
 
 MAP
 Wxxxxx+xxxxxW
